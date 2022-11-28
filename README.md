@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivianihb
-- 👀 I’m interested in data analysis, data science, and ai
+- 👀 I’m interested in data analysis, data science, and AI
 - 🌱 I’m currently learning SQL, Power BI, and Python
 
 <!---
